@@ -19,5 +19,5 @@ class UserSeeder extends \CodeIgniter\Database\Seeder
         $this->db->table('users')->insertBatch($data);
     }
 }
-
+oke
 ?>
